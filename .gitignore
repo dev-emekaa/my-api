@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript output
+dist/
+
+# Prisma generated client and migrations
+prisma/migrations/
+prisma/client/
+
+# Environment variables
+.env
+
+# Logs and cache
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE settings
+.idea/
+.vscode/
+*.swp
