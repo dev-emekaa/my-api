@@ -4,9 +4,11 @@ node_modules/
 # TypeScript output
 dist/
 
-# Prisma generated client and migrations
+# Prisma generated client and migrations and files
 prisma/migrations/
 prisma/client/
+generated*
+
 
 # Environment variables
 .env
